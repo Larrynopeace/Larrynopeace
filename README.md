@@ -1,5 +1,4 @@
 ### Hi there 👋
-I’m currently learning information science in University of Otago
 
 
 <!--
